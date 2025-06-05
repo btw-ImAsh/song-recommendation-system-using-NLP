@@ -46,7 +46,8 @@ Returns top-N most similar songs based on cosine similarity.
 **Code:**
 
 ![Data](https://github.com/user-attachments/assets/906650b3-283c-442b-88d0-4d31d1a7233e)
-![Code](https://github.com/user-attachments/assets/424088cb-8a3f-4fc9-8e82-6eecaf854ffa)
+![Code](https://github.com/user-attachments/assets/29af890c-fc35-4ff6-961d-9b864bf6be65)
+
 
 **UI/Webpage:**
 
