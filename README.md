@@ -45,11 +45,14 @@ Returns top-N most similar songs based on cosine similarity.
 
 **Code:**
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Data](https://github.com/user-attachments/assets/906650b3-283c-442b-88d0-4d31d1a7233e)
+![Code](https://github.com/user-attachments/assets/424088cb-8a3f-4fc9-8e82-6eecaf854ffa)
 
 **UI/Webpage:**
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![UI](https://github.com/user-attachments/assets/7b537cdc-55a6-4785-be08-bcd06a7d2885)
+
+
 ## Authors
 
 - Ashutosh Sharma
