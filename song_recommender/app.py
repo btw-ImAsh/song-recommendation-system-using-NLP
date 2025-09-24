@@ -7,8 +7,8 @@ from dotenv import load_dotenv
 import os
 load_dotenv()
 
-SPOTIFY_CLIENT_ID = os.getenv('SPOTIFY_CLIENT_ID')
-SPOTIFY_CLIENT_SECRET = os.getenv('SPOTIFY_CLIENT_SECRET')
+SPOTIFY_CLIENT_ID = st.secrets["SPOTIPY_CLIENT_ID"]
+SPOTIFY_CLIENT_SECRET = st.secrets["SPOTIPY_CLIENT_SECRET"]
 
 @st.cache_data(ttl=3600)
 def get_access_token(client_id, client_secret):
